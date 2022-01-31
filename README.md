@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with PassPY.
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
-    Discord: Morgandril#7320
+    Discord: Morgandril#0001
     Email: morgandri123@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm learning German! (ich bin lernen Deutsch)
