@@ -16,9 +16,6 @@ I'm a Python developer that's interested in making functional apps.
 ### GitHub Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Morgandri1&show_icons=true&count_private=true&theme=dark)](https://github.com/Morgandri1)
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Morgandri1&theme=dark)](https://github.com/Morgandri1)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morgandri1&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/Morgandri1)
 
 ### Contact Information
