@@ -10,7 +10,7 @@ I'm a Python developer that's interested in making functional apps.
 | [PassPY-site](https://github.com/Morgandri1/passPy)         | the PassPY website.                                                            |
 | [EasyCam](https://github.com/Morgandri1/EasyCam)            | a facial recognition software that can send pings when it sees faces.          |
 | [Northstar](https://github.com/Morgandri1/northstar-bot)    | a general purpose discord bot.                                                 |
-| [titres](https://github.com/Morgandri1/titres)              | a tetris ML algorithm.                                                         |
+| [img2data](https://github.com/ArisuUwU/Data2PNG)            | a cool project that i wrote a GUI for                                          |
 | [my portfolio site](https://github.com/Morgandri1/portfolio)| my portfolio site.                                                             |
 
 ### GitHub Stats
