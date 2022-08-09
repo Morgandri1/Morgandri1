@@ -1,7 +1,7 @@
 # Hey! i'm Morgan!
 
 ### About Me
-I'm a Python developer that's interested in making functional apps.
+I'm a developer that's interested in making functional apps. ❗️Looking for commission work!!!!❗️
 
 ## Projects
 | Project                                                     | Description                                                                    |
