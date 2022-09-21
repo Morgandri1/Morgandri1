@@ -11,7 +11,7 @@ I'm a developer that's interested in making functional apps. ❗️Looking for c
 | [EasyCam](https://github.com/Morgandri1/EasyCam)            | a facial recognition software that can send pings when it sees faces.          |
 | [Northstar](https://github.com/Morgandri1/northstar-bot)    | a general purpose discord bot.                                                 |
 | [img2data](https://github.com/ArisuUwU/Data2PNG)            | a cool project that i wrote a GUI for                                          |
-| [my portfolio site](https://github.com/Morgandri1/portfolio)| my portfolio site.                                                             |
+| [CopperUI](https://github.com/Copperhead-Software/CopperUI) | a TUI app wrapper making syntax easier to read                                 |
 
 ### GitHub Stats
 
