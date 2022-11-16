@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morgandri1&label=Profile%20views&color=0e75b6&style=flat" alt="morgandri1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morgandri1" alt="morgandri1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/morgandri1dev" target="blank"><img src="https://img.shields.io/twitter/follow/morgandri1dev?logo=twitter&style=for-the-badge" alt="morgandri1dev" /></a> </p>
 
 - 🔭 I'm currently working at [Copperhead Software](https://github.com/Copperhead-Software/)
