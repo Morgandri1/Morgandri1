@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Commission prices**
 
-- 📫 How to reach me **https://discord.gg/Juv98MwfbA**
+- 📫 How to reach me **[morgan.metz@eyekon.xyz](mailto://morgan.metz@eyekon.xyz)**
 
 - 🙋‍♂️ Am I looking for work? **Yes!**
 
