@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/morgandri1dev" target="blank"><img src="https://img.shields.io/twitter/follow/morgandri1dev?logo=twitter&style=for-the-badge" alt="morgandri1dev" /></a> </p>
 
-- 🔭 I'm currently working at [Copperhead Software](https://github.com/Copperhead-Software/)
+- 🔭 I'm currently working at [Copperhead Software](https://github.com/Copperhead-Software/) and [Unison Labs](https://unison.app/)
 
 - 🌱 I'm currently learning **C, Lua, React**
 
