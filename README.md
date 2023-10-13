@@ -76,7 +76,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Morgandri1/Morgandri1/output/snake.svg" alt="Snake animation" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Morgandri1&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ###
 
