@@ -77,7 +77,6 @@
 ###
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Morgandri1&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=morgandri1)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 <div align="center">
