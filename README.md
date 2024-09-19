@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Morgan, and I'm a founder/student, from Charlottesville, VA.<br><br>Here are my projects:<br>Nebula<br>Unison<br>Copperhead</p>
+<p align="left">My name is Morgan, and I'm a software engineer from Charlottesville, VA.</p>
 
 ###
 
