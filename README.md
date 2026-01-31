@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ultra Markets<br>👯 I’m looking to collaborate on OSS projects!<br>🤝 I’m looking for help with Mobile Development<br>🌱 I’m currently learning Golang <br>💬 Ask me about my favorite project<br>⚡ Fun fact: I'm conversational in German 😄
+🔭 I’m currently working on Hydex<br>👯 I’m looking to collaborate on OSS projects!<br>🤝 I’m looking for help with Mobile Development<br>🌱 I’m currently learning Golang <br>💬 Ask me about my favorite project<br>⚡ Fun fact: I'm conversational in German 😄
 
 
 ## 🌐 Socials:
